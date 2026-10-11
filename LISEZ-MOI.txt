@@ -1,0 +1,5 @@
+JobAfrica - Créé par Sabin MARUHE
+1) Décompresse ce dossier.
+2) Ouvre-le dans VS Code (Fichier > Ouvrir le dossier).
+3) Clic droit sur index.html > "Open with Live Server".
+Garde le dossier "images" à côté de index.html. Internet est nécessaire pour la police et le PDF.
